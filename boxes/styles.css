@@ -1,0 +1,52 @@
+h1 {
+    background-color: white;
+}
+
+div {
+    background-color: red;
+    margin: 10px 60px 80px;
+    padding: 50px 80px;
+    border: 5px solid black;
+
+}
+
+.big-box, .little-box {
+    width: 100px;
+    height: 100px;
+}
+
+.big-box {
+    background-color: grey;
+    height: 100px;
+    width: 100px;
+    padding: 5%
+}
+
+.little-box {
+    background-color: lightgrey;
+    height: 50px;
+    width: 30px;
+}
+
+.big-box2 {
+    background-color: rgb(241, 104, 127);
+    height: 100px;
+    width: 100px;
+}
+
+.little-box2 {
+    background-color: pink;
+    height: 100px;
+    width: 150px;
+    border: solid black 15px;
+}
+
+.big-box3 {
+    background-color: rgb(30, 167, 246);
+    padding: 10%;
+}
+
+.little-box3 {
+    background-color: rgb(116, 208, 250);
+    margin: .5%;
+}
